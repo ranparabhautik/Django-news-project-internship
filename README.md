@@ -1,0 +1,1 @@
+# Django-news-project-internship
